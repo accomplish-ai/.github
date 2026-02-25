@@ -13,6 +13,7 @@
   <a href="https://github.com/accomplish-ai/accomplish/commits"><img src="https://img.shields.io/github/last-commit/accomplish-ai/accomplish?style=flat-square&color=22c55e" alt="Son Commit" /></a>
   <a href="https://downloads.accomplish.ai/downloads/0.3.10/macos/Accomplish-0.3.10-mac-arm64.dmg"><img src="https://img.shields.io/badge/Download-macOS%20ARM-0ea5e9?style=flat-square" alt="macOS için İndir (Apple Silicon)" /></a>
   <a href="https://downloads.accomplish.ai/downloads/0.3.10/macos/Accomplish-0.3.10-mac-x64.dmg"><img src="https://img.shields.io/badge/Download-macOS%20Intel-0ea5e9?style=flat-square" alt="macOS için İndir (Intel)" /></a>
+  <a href="https://downloads.accomplish.ai/downloads/0.3.10/windows/Accomplish-0.3.10-win-x64.exe"><img src="https://img.shields.io/badge/Download-Windows-0ea5e9?style=flat-square" alt="Windows için İndir" /></a>
   <a href="https://discord.gg/MepaTT55"><img src="https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
 
