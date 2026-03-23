@@ -14,6 +14,9 @@
   <a href="https://downloads.accomplish.ai/downloads/0.4.0/macos/Accomplish-0.4.0-mac-arm64.dmg"><img src="https://img.shields.io/badge/Download-macOS%20ARM-0ea5e9?style=flat-square" alt="macOS için İndir (Apple Silicon)" /></a>
   <a href="https://downloads.accomplish.ai/downloads/0.4.0/macos/Accomplish-0.4.0-mac-x64.dmg"><img src="https://img.shields.io/badge/Download-macOS%20Intel-0ea5e9?style=flat-square" alt="macOS için İndir (Intel)" /></a>
   <a href="https://downloads.accomplish.ai/downloads/0.4.0/windows/Accomplish-0.4.0-win-x64.exe"><img src="https://img.shields.io/badge/Download-Windows-0ea5e9?style=flat-square" alt="Windows için İndir" /></a>
+  <a href="https://downloads.accomplish.ai/downloads/0.4.0/linux/Accomplish-0.4.0-linux-x64.deb"><img src="https://img.shields.io/badge/Download-Linux_(.deb_x64)-0ea5e9?style=flat-square" alt="Linux için İndir (.deb x64)" /></a>
+  <a href="https://downloads.accomplish.ai/downloads/0.4.0/linux/Accomplish-0.4.0-linux-x64.AppImage"><img src="https://img.shields.io/badge/Download-Linux_(x64)-0ea5e9?style=flat-square" alt="Linux için İndir (x64)" /></a>
+  <a href="https://downloads.accomplish.ai/downloads/0.4.0/linux/Accomplish-0.4.0-linux-arm64.AppImage"><img src="https://img.shields.io/badge/Download-Linux_(ARM64)-0ea5e9?style=flat-square" alt="Linux için İndir (ARM64)" /></a>
   <a href="https://discord.gg/YH86b2P8"><img src="https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
 
@@ -31,6 +34,12 @@ Accomplish, bilgisayarınızda yerel olarak dosya yönetimi, belge oluşturma ve
   <a href="https://downloads.accomplish.ai/downloads/0.4.0/macos/Accomplish-0.4.0-mac-x64.dmg"><strong>Mac için İndirin (Intel)</strong></a>
   ·
   <a href="https://downloads.accomplish.ai/downloads/0.4.0/windows/Accomplish-0.4.0-win-x64.exe"><strong>Windows için İndirin</strong></a>
+  ·
+  <a href="https://downloads.accomplish.ai/downloads/0.4.0/linux/Accomplish-0.4.0-linux-x64.deb"><strong>Linux için İndirin (.deb x64)</strong></a>
+  ·
+  <a href="https://downloads.accomplish.ai/downloads/0.4.0/linux/Accomplish-0.4.0-linux-x64.AppImage"><strong>Linux için İndirin (x64)</strong></a>
+  ·
+  <a href="https://downloads.accomplish.ai/downloads/0.4.0/linux/Accomplish-0.4.0-linux-arm64.AppImage"><strong>Linux için İndirin (ARM64)</strong></a>
   ·
   <a href="https://www.accomplish.ai/">Web Sitesi</a>
   ·
@@ -187,7 +196,7 @@ Accomplish bilgisayarınızda yerel olarak çalışır. Dosyalarınız cihazın�
 
 <div align="center">
 
-[**Mac için İndirin (Apple Silicon)**](https://downloads.accomplish.ai/downloads/0.4.0/macos/Accomplish-0.4.0-mac-arm64.dmg) · [**Mac için İndirin (Intel)**](https://downloads.accomplish.ai/downloads/0.4.0/macos/Accomplish-0.4.0-mac-x64.dmg) · [**Windows için İndirin**](https://downloads.accomplish.ai/downloads/0.4.0/windows/Accomplish-0.4.0-win-x64.exe)
+[**Mac için İndirin (Apple Silicon)**](https://downloads.accomplish.ai/downloads/0.4.0/macos/Accomplish-0.4.0-mac-arm64.dmg) · [**Mac için İndirin (Intel)**](https://downloads.accomplish.ai/downloads/0.4.0/macos/Accomplish-0.4.0-mac-x64.dmg) · [**Windows için İndirin**](https://downloads.accomplish.ai/downloads/0.4.0/windows/Accomplish-0.4.0-win-x64.exe) · [**Linux için İndirin (.deb x64)**](https://downloads.accomplish.ai/downloads/0.4.0/linux/Accomplish-0.4.0-linux-x64.deb) · [**Linux için İndirin (x64)**](https://downloads.accomplish.ai/downloads/0.4.0/linux/Accomplish-0.4.0-linux-x64.AppImage) · [**Linux için İndirin (ARM64)**](https://downloads.accomplish.ai/downloads/0.4.0/linux/Accomplish-0.4.0-linux-arm64.AppImage)
 
 </div>
 
