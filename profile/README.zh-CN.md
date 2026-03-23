@@ -174,6 +174,7 @@ Accomplish 在您的机器上本地运行。您的文件保留在您的设备上
 
 - macOS（Apple Silicon）
 - Windows 11
+- Linux（x64/ARM64）
 
 <br />
 
@@ -232,7 +233,7 @@ Accomplish 在您的机器上本地运行。您的文件保留在您的设备上
 是的。Accomplish 是开源的，采用 MIT 许可证。
 
 **支持哪些平台？**
-macOS（Apple Silicon）和 Windows 11 现已可用。
+macOS（Apple Silicon）、Windows 11 和 Linux（x64/ARM64）现已可用。
 
 <br />
 

@@ -174,6 +174,7 @@ Accomplish berjalan secara lokal di mesin Anda. File Anda tetap di perangkat And
 
 - macOS (Apple Silicon)
 - Windows 11
+- Linux (x64/ARM64)
 
 <br />
 
@@ -232,7 +233,7 @@ Anda bisa menggunakan kunci API Anda sendiri (OpenAI, Anthropic, Google, xAI, dl
 Ya. Accomplish adalah open source dan berlisensi MIT.
 
 **Platform apa yang didukung?**
-macOS (Apple Silicon) dan Windows 11 tersedia sekarang.
+macOS (Apple Silicon), Windows 11, dan Linux (x64/ARM64) tersedia sekarang.
 
 <br />
 

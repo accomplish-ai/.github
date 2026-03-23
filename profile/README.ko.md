@@ -174,6 +174,7 @@ Accomplish는 로컬 머신에서 실행됩니다. 파일은 기기에 저장되
 
 - macOS (Apple Silicon)
 - Windows 11
+- Linux (x64/ARM64)
 
 <br />
 
@@ -232,7 +233,7 @@ Accomplish는 로컬 머신에서 실행됩니다. 파일은 기기에 저장되
 네. Accomplish는 오픈소스이며 MIT 라이선스입니다.
 
 **어떤 플랫폼을 지원하나요?**
-macOS (Apple Silicon)와 Windows 11이 현재 사용 가능합니다.
+macOS (Apple Silicon), Windows 11, Linux (x64/ARM64)가 현재 사용 가능합니다.
 
 <br />
 

@@ -174,6 +174,7 @@ Accomplish runs locally on your machine. Your files stay on your device, and you
 
 - macOS (Apple Silicon)
 - Windows 11
+- Linux (x64/ARM64)
 
 <br />
 
@@ -232,7 +233,7 @@ You can use your own API keys (OpenAI, Anthropic, Google, xAI, etc.) or run loca
 Yes. Accomplish is open source and MIT licensed.
 
 **Which platforms are supported?**
-macOS (Apple Silicon) and Windows 11 are available now.
+macOS (Apple Silicon), Windows 11, and Linux (x64/ARM64) are available now.
 
 <br />
 
