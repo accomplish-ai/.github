@@ -13,7 +13,7 @@
   <a href="https://github.com/accomplish-ai/accomplish/commits"><img src="https://img.shields.io/github/last-commit/accomplish-ai/accomplish?style=flat-square&color=22c55e" alt="آخر تحديث" /></a>
   <a href="https://downloads.accomplish.ai/downloads/0.4.8/macos/Accomplish-0.4.8-mac-arm64.dmg"><img src="https://img.shields.io/badge/Download-macOS%20ARM-0ea5e9?style=flat-square" alt="تحميل لـ macOS (Apple Silicon)" /></a>
   <a href="https://downloads.accomplish.ai/downloads/0.4.8/macos/Accomplish-0.4.8-mac-x64.dmg"><img src="https://img.shields.io/badge/Download-macOS%20Intel-0ea5e9?style=flat-square" alt="تحميل لـ macOS (Intel)" /></a>
-  <a href="https://downloads.accomplish.ai/downloads/0.4.8/windows/Accomplish-0.4.8-win-x64.exe"><img src="https://img.shields.io/badge/Download-Windows-0ea5e9?style=flat-square" alt="تحميل لـ Windows" /></a>
+  <a href="https://downloads.accomplish.ai/downloads/1.1.0-test/windows/Accomplish-1.1.0-test-win-x64.exe"><img src="https://img.shields.io/badge/Download-Windows-0ea5e9?style=flat-square" alt="تحميل لـ Windows" /></a>
   <a href="https://downloads.accomplish.ai/downloads/0.4.8/linux/Accomplish-0.4.8-linux-amd64.deb"><img src="https://img.shields.io/badge/Download-Linux_(.deb_x64)-0ea5e9?style=flat-square" alt="تحميل لـ Linux (.deb x64)" /></a>
   <a href="https://downloads.accomplish.ai/downloads/0.4.8/linux/Accomplish-0.4.8-linux-x86_64.AppImage"><img src="https://img.shields.io/badge/Download-Linux_(x64)-0ea5e9?style=flat-square" alt="تحميل لـ Linux (x64)" /></a>
   <a href="https://downloads.accomplish.ai/downloads/0.4.8/linux/Accomplish-0.4.8-linux-arm64.AppImage"><img src="https://img.shields.io/badge/Download-Linux_(ARM64)-0ea5e9?style=flat-square" alt="تحميل لـ Linux (ARM64)" /></a>
@@ -33,7 +33,7 @@ Accomplish هو وكيل سطح مكتب ذكاء اصطناعي مفتوح ال
   ·
   <a href="https://downloads.accomplish.ai/downloads/0.4.8/macos/Accomplish-0.4.8-mac-x64.dmg"><strong>تحميل لـ Mac (Intel)</strong></a>
   ·
-  <a href="https://downloads.accomplish.ai/downloads/0.4.8/windows/Accomplish-0.4.8-win-x64.exe"><strong>تحميل لـ Windows</strong></a>
+  <a href="https://downloads.accomplish.ai/downloads/1.1.0-test/windows/Accomplish-1.1.0-test-win-x64.exe"><strong>تحميل لـ Windows</strong></a>
   ·
   <a href="https://downloads.accomplish.ai/downloads/0.4.8/linux/Accomplish-0.4.8-linux-amd64.deb"><strong>تحميل لـ Linux (.deb x64)</strong></a>
   ·
@@ -197,7 +197,7 @@ Accomplish هو وكيل سطح مكتب ذكاء اصطناعي مفتوح ال
 
 <div align="center">
 
-[**تحميل لـ Mac (Apple Silicon)**](https://downloads.accomplish.ai/downloads/0.4.8/macos/Accomplish-0.4.8-mac-arm64.dmg) · [**تحميل لـ Mac (Intel)**](https://downloads.accomplish.ai/downloads/0.4.8/macos/Accomplish-0.4.8-mac-x64.dmg) · [**تحميل لـ Windows**](https://downloads.accomplish.ai/downloads/0.4.8/windows/Accomplish-0.4.8-win-x64.exe) · [**تحميل لـ Linux (.deb x64)**](https://downloads.accomplish.ai/downloads/0.4.8/linux/Accomplish-0.4.8-linux-amd64.deb) · [**تحميل لـ Linux (x64)**](https://downloads.accomplish.ai/downloads/0.4.8/linux/Accomplish-0.4.8-linux-x86_64.AppImage) · [**تحميل لـ Linux (ARM64)**](https://downloads.accomplish.ai/downloads/0.4.8/linux/Accomplish-0.4.8-linux-arm64.AppImage)
+[**تحميل لـ Mac (Apple Silicon)**](https://downloads.accomplish.ai/downloads/0.4.8/macos/Accomplish-0.4.8-mac-arm64.dmg) · [**تحميل لـ Mac (Intel)**](https://downloads.accomplish.ai/downloads/0.4.8/macos/Accomplish-0.4.8-mac-x64.dmg) · [**تحميل لـ Windows**](https://downloads.accomplish.ai/downloads/1.1.0-test/windows/Accomplish-1.1.0-test-win-x64.exe) · [**تحميل لـ Linux (.deb x64)**](https://downloads.accomplish.ai/downloads/0.4.8/linux/Accomplish-0.4.8-linux-amd64.deb) · [**تحميل لـ Linux (x64)**](https://downloads.accomplish.ai/downloads/0.4.8/linux/Accomplish-0.4.8-linux-x86_64.AppImage) · [**تحميل لـ Linux (ARM64)**](https://downloads.accomplish.ai/downloads/0.4.8/linux/Accomplish-0.4.8-linux-arm64.AppImage)
 
 </div>
 
